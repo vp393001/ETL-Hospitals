@@ -1,0 +1,11 @@
+File Position|Column_Name|Filed Length|Data|Type|Mandatory|Key Column
+1|Customer Name|255|VARCHAR|Y|Y
+2|Customer ID|18|VARCHAR|Y|N
+3|Customer Open Date|8|DATE|Y|N
+4|Last Consulted Date|8|DATE|N|N
+5|Vaccination Type|5|CHAR|N|N
+6|Doctor Consulted|255|CHAR|N|N
+7|State|5|CHAR|N|N
+8|Country|5|CHAR|N|N
+9|Date of Birth|8|DATE|N|N 
+10|Active Customer|1|CHAR|N|N
